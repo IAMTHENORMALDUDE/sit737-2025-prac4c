@@ -8,7 +8,7 @@ This project enhances my calculator microservice from 4.1P by adding exponentiat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/sit737-2025-prac4c.git
+   git clone https://github.com/IAMTHENORMALDUDE/sit737-2025-prac4c.git
    cd sit737-2025-prac4c
    ```
 2. **Install Dependencies**:
